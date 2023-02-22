@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Ahmad",
+      "lastName": "Tahir",
+      "email": "matahir2017@gmail.com",
+      "dob": "1997-11-17T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "organization": "Bitlogix",
+      "experience": 1,
+      "salary": 50000,
+      "id": 1
+    },
+    {
+      "firstName": "Ahmad",
+      "lastName": "Tahir",
+      "email": "ahmad@gmail.com",
+      "dob": "1997-11-17T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "organization": "Bitlogix",
+      "experience": 1,
+      "salary": 50000,
+      "id": 2
+    },
+    {
+      "firstName": "Ahmad",
+      "lastName": "Tahir",
+      "email": "matahir2017@gmail.com",
+      "dob": "1997-11-17T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "organization": "Bitlogix",
+      "experience": 1,
+      "salary": 50000,
+      "id": 4
+    },
+    {
+      "firstName": "Ahmad",
+      "lastName": "Tahir",
+      "email": "matahir2017@gmail.com",
+      "dob": "1997-11-17T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "organization": "Bitlogix",
+      "experience": 1,
+      "salary": 50000,
+      "id": 6
+    },
+    {
+      "firstName": "abc",
+      "lastName": "abc",
+      "email": "abc@gmail.com",
+      "dob": "1997-08-20T19:00:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "organization": "Bitlogix",
+      "experience": 2,
+      "salary": 100000,
+      "id": 7
+    },
+    {
+      "firstName": "ali",
+      "lastName": "awan",
+      "email": "ali@gmail.com",
+      "dob": "2000-03-02T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "organization": "xyz",
+      "experience": 1,
+      "salary": 40000,
+      "id": 11
+    },
+    {
+      "firstName": "Ch",
+      "lastName": "Inam",
+      "email": "Inam@gmail.com",
+      "dob": "1993-07-06T19:00:00.000Z",
+      "gender": "male",
+      "education": "Post-Graduation",
+      "organization": "Bitlogix",
+      "experience": 1,
+      "salary": 50000,
+      "id": 14
+    },
+    {
+      "firstName": "Zeeshan",
+      "lastName": "Faiz",
+      "email": "Zeefaiz@gmail.com",
+      "dob": "1998-07-06T19:00:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "organization": "Bitlogix",
+      "experience": 1,
+      "salary": 50000,
+      "id": 15
+    },
+    {
+      "firstName": "fddasd",
+      "lastName": "fasdda",
+      "email": "asfs@gmail.com",
+      "dob": "2023-02-05T19:00:00.000Z",
+      "gender": "male",
+      "education": "A-Level",
+      "organization": "W",
+      "experience": 2,
+      "salary": 230000,
+      "id": 16
+    },
+    {
+      "firstName": "xyz",
+      "lastName": "xzy",
+      "email": "xyz@gmail.com",
+      "dob": "1992-07-21T19:00:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "organization": "czxc",
+      "experience": 3,
+      "salary": 300000,
+      "id": 17
+    }
+  ]
+}

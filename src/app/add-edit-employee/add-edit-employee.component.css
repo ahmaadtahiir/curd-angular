@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+    gap: 10px;
+    padding: 5px 0px 0px 0px;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

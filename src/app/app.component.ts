@@ -49,7 +49,7 @@ export class AppComponent implements OnInit {
         this.dataSource.paginator = this.paginator
       },
       error: (err: any) => {
-        console.log(err)
+        console.error(err)
       }
     })
   }
@@ -83,7 +83,7 @@ export class AppComponent implements OnInit {
         this.getEmployeeList()
       },
       error: (err) => {
-        console.log(err)
+        console.error(err)
       }
     })
   }

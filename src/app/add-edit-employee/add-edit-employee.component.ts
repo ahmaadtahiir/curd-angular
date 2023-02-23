@@ -55,7 +55,7 @@ export class AddEditEmployeeComponent implements OnInit {
             this.matDialogRef.close(true)
           },
           error: (err: any) => {
-            console.log(err)
+            console.error(err)
           }
         })
       } else {
@@ -65,7 +65,7 @@ export class AddEditEmployeeComponent implements OnInit {
             this.matDialogRef.close(true)
           },
           error: (err: any) => {
-            console.log(err)
+            console.error(err)
           }
         })
       }
